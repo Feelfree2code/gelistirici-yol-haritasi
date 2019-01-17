@@ -1,28 +1,21 @@
 <p align="center">
-  <a href="http://github.com/kamranahmedse/developer-roadmap">
-    <img src="https://i.imgur.com/Uid1O3A.png" alt="Developer Roadmap" width="96" height="96">
+  <a href="http://github.com/AtakanErmis/gelistirici-yol-haritasi">
+    <img src="https://i.imgur.com/Uid1O3A.png" alt="Geliştirici Yol Haritası" width="96" height="96">
   </a>
-  <h2 align="center">Developer Roadmap</h2>
-  <p align="center">Roadmap to becoming a Web Developer in 2019</p>
-  <p align="center">
-    <a href="https://github.com/kamranahmedse/developer-roadmap#-introduction"><img src="https://img.shields.io/badge/Roadmap-2019-yellowgreen.svg"/></a>
-          <a href="https://github.com/kamranahmedse/developer-roadmap/releases"><img src="https://img.shields.io/badge/Roadmaps-Past-yellow.svg"/></a>
-      <a href="https://twitter.com/home?status=Developer%20Roadmap%20by%20%40kamranahmedse%20http%3A//github.com/kamranahmedse/developer-roadmap"><img src="https://img.shields.io/badge/twitter-tweet-blue.svg"/></a>
-<a href="https://twitter.com/kamranahmedse"><img src="https://img.shields.io/badge/feedback-@kamranahmedse-blue.svg" /></a>
-  </p>
+  <h2 align="center">Geliştirici Yol Haritası</h2>
+  <p align="center">2019'da web geliştirici olmanın yol haritası.</p>
+  <p align="center"><a href="https://github.com/kamranahmedse/developer-roadmap">Kamran Ahmed'in geliştirici yol haritası</a>ndan birebir çeviridir.</p>
   <br>
 </p>
 
-Below you find a set of charts demonstrating the paths that you can take and the technologies that you would want to adopt in order to become a frontend, backend or a devops. I made these charts for an old professor of mine who wanted something to share with his college students to give them a perspective; sharing them here to help the community.
+Aşağıda Ön Uç (Front-end), Arka Uç (Back-end) ve Devops geliştirici olmak için öğrenmeniz gereken teknolojileri açıklayan tablolar göreceksiniz. Bu tablolar eski bir profesör olan Kamran Ahmed tarafından topluluğa yardımcı olmak için hazırlanmış ve benim tarafımdan birebir çevirilmiştir.
 
-<sub>Check out my [blog](http://kamranahmed.info) and say "hi" on [Twitter](https://twitter.com/kamranahmedse).</sub>
+## Uyarı
+> Bu yol haritalarının amacı ne öğreneceğinize dair kafanızda fikir oluşması ve trend olan teknolojiler arasında ne öğrenmeniz gerektiğini açıklamaktır. Siz hangi aracın hangi durumlarda daha uygun olduğunu kendiniz öğrenmelisiniz. "trend" kelimesi asla iş için en uygunu anlamına gelmemektedir.
 
-## Disclaimer
-> The purpose of these roadmaps is to give you an idea about the landscape and to guide you if you are confused about what to learn next and not to encourage you to pick what is hip and trendy. You should grow some understanding of why one tool would better suited for some cases than the other and remember hip and trendy never means best suited for the job
+## Giriş
 
-## Introduction
-
-![Web Developer Roadmap Introduction](./images/intro.png)
+![Web Geliştirici Yol Haritası - Giriş](./images/intro.png)
 
 ## Frontend Roadmap
 
@@ -40,19 +33,15 @@ Below you find a set of charts demonstrating the paths that you can take and the
 
 If you think any of the roadmaps can be improved, please do open a PR with any updates and submit any issues. Also, I will continue to improve this, so you might want to watch/star this repository to revisit.
 
-## 🙌 Contribution
+## 🙌 Destek Olun
 
-> Have a look at [contribution docs](./contributing.md) for how to update any of the roadmaps
+> Yol haritalarını nasıl güncelleyeceğinizi öğrenmek için [Katkı dokümanı](./contributing.md)'na göz atabilirsiniz.
 
-- Open pull request with improvements
-- Discuss ideas in issues
-- Spread the word
-- Reach out with any feedback [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/kamranahmedse.svg?style=social&label=Follow%20%40kamranahmedse)](https://twitter.com/kamranahmedse)
+- Geliştirmeler için Pull Request açın.
+- Issues sekmesinde fikirlerinizi tartışın.
+- Diğer insanlara da yayın.
+- Herhangi bir geribildirim için [Bana](https://twitter.com/kamranahmedse) veya [Kamran Ahmed'e](https://twitter.com/kamranahmedse) yazın.
 
-## Sponsored By	
-
- - [Hackr.io - Find & Share the Best Online Programming Courses & Tutorials](https://hackr.io)
- 
 ## License
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)

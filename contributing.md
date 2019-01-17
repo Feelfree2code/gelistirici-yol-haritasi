@@ -1,26 +1,19 @@
-## The Goal
-Our goal is not to have the biggest list of everything available out there.
-Our goal is to have a list of things that anybody would have to learn if they were to enter the field today. 
+## Amaç
+Amacımız en büyük listeyi oluşturmak falan değil.
+Amacımız buraya gelen herkesin öğrenmesi gereken şeylerin listesini oluşturmak.
 
-## Contributing
+## Bu yol haritaları nasıl yapılıyor!
 
-Your contributions to this repo are always welcome!
-Bear in mind, that this repo is *highly opinionated*, *unbiased* and *curated*.
-Your opinion on value of any resource may not match the opinion of curator.
+> Yol haritalarını [Balsamiq](https://balsamiq.com/download/) kullanarak oluşturuyoruz.
 
-**No PR will be discarded without explanations!**
-
-## How are these roadmaps made?
-
-> Roadmaps are made using [Balsamiq](https://balsamiq.com/download/)
-
-* Clone the repository
-* Open Balsamiq, click <kbd>Project > Import > Mockup JSON</kbd>,
-* Copy and paste the JSON for the roadmap that you want to update
-* Add your changes
-* Export the JSON file <kbd>Project > Export > Mockup to JSON</kbd> and put it in the <kbd>project</kbd> directory
-* Export the image <kbd>Project > Export > Current Mockup to PNG</kbd> and put it in the <kbd>images</kbd> directory
-* Commits your changes and open a PR
+* Repo'yu klonla
+* Balsamiq'i aç, <kbd>Project > Import > Mockup JSON</kbd>'a tıkla
+* Güncellemek istediğin yol haritasının JSON dosyasını kopyala ve yapıştır
+* Değişikliklerini ekle
+*
+* JSON dosyasını <kbd>Project > Export > Mockup to JSON</kbd> yolundan <kbd>project</kbd> dizinine kaydet
+* Fotoğrafı <kbd>Project > Export > Current Mockup to PNG</kbd> yolundan <kbd>images</kbd> dizinine kaydet
+* Değişikliklerini Commit'le ve Pull Request aç.
 
 ## Guidelines
 
