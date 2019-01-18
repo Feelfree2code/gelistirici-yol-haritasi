@@ -29,7 +29,7 @@ Aşağıda Ön Uç (Front-end), Arka Uç (Back-end) ve Devops geliştirici olmak
 
 ![Web Geliştirici Yol Haritası - DevOps](./images/devops.png)
 
-## 🚦 Wrap Up
+## 🚦 Son Olarak
 
 Eğer yol haritalarının daha fazla geliştirilebileceğini düşünüyorsan lütfen güncellemeler için PR açın ve sorunları Issues sekmesi altında bildirin. Ayrıca ben de geliştiriyor olacağım, dolayısıyla bu repo'yu tekrar ziyaret etmek üzere izleyebilir/yıldızlayabilirsiniz.
 
