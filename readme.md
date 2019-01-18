@@ -17,21 +17,21 @@ Aşağıda Ön Uç (Front-end), Arka Uç (Back-end) ve Devops geliştirici olmak
 
 ![Web Geliştirici Yol Haritası - Giriş](./images/intro.png)
 
-## Frontend Roadmap
+## Ön Uç (Front-end) Yol Haritası
 
-![Frontend Roadmap](./images/frontend.png)
+![Web Geliştirici Yol Haritası - Ön Uç (Front-end)](./images/frontend.png)
 
-## Back-end Roadmap
+## Arka Uç (Back-end) Yol Haritası
 
-![Back-end Roadmap](./images/backend.png)
+![Web Geliştirici Yol Haritası - Arka Uç (Back-end)](./images/backend.png)
 
-## DevOps Roadmap
+## DevOps Yol Haritası
 
-![DevOps Roadmap](./images/devops.png)
+![Web Geliştirici Yol Haritası - DevOps](./images/devops.png)
 
 ## 🚦 Wrap Up
 
-If you think any of the roadmaps can be improved, please do open a PR with any updates and submit any issues. Also, I will continue to improve this, so you might want to watch/star this repository to revisit.
+Eğer yol haritalarının daha fazla geliştirilebileceğini düşünüyorsan lütfen güncellemeler için PR açın ve sorunları Issues sekmesi altında bildirin. Ayrıca ben de geliştiriyor olacağım, dolayısıyla bu repo'yu tekrar ziyaret etmek üzere izleyebilir/yıldızlayabilirsiniz.
 
 ## 🙌 Destek Olun
 
@@ -39,9 +39,11 @@ If you think any of the roadmaps can be improved, please do open a PR with any u
 
 - Geliştirmeler için Pull Request açın.
 - Issues sekmesinde fikirlerinizi tartışın.
-- Diğer insanlara da yayın.
+- Projeyi diğer insanlara da yayın.
 - Herhangi bir geribildirim için [Bana](https://twitter.com/kamranahmedse) veya [Kamran Ahmed'e](https://twitter.com/kamranahmedse) yazın.
 
-## License
+## Lisans
 
-[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![Lisans: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+Bu içerik, Creative Commons Atıf-Gayriticari-AynıLisanslaPaylaş 4.0 lisansıyla korunmaktadır. Lisans hakkında daha fazla bilgiye yukarıdaki bağlantı aracılığıyla erişebilirsiniz.
