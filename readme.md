@@ -40,7 +40,7 @@ Eğer yol haritalarının daha fazla geliştirilebileceğini düşünüyorsan l�
 - Geliştirmeler için Pull Request açın.
 - Issues sekmesinde fikirlerinizi tartışın.
 - Projeyi diğer insanlara da yayın.
-- Herhangi bir geribildirim için [Bana](https://twitter.com/kamranahmedse) veya [Kamran Ahmed'e](https://twitter.com/kamranahmedse) yazın.
+- Herhangi bir geribildirim için [Bana](https://twitter.com/atakan_ermis) veya [Kamran Ahmed'e](https://twitter.com/kamranahmedse) yazın.
 
 ## Lisans
 
