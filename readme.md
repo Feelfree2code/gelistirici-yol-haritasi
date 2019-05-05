@@ -8,7 +8,7 @@
   <br>
 </p>
 
-Aşağıda Ön Uç (Front-end), Arka Uç (Back-end) ve Devops geliştirici olmak için öğrenmeniz gereken teknolojileri açıklayan tablolar göreceksiniz. Bu tablolar eski bir profesör olan Kamran Ahmed tarafından topluluğa yardımcı olmak için hazırlanmış ve benim tarafımdan birebir çevirilmiştir.
+Aşağıda Ön Uç (Front-end), Arka Uç (Back-end) ve Devops geliştirici olmak için öğrenmeniz gereken teknolojileri açıklayan tablolar göreceksiniz. Bu tablolar Kamran Ahmed tarafından topluluğa yardımcı olmak için hazırlanmış ve benim tarafımdan birebir çevirilmiştir.
 
 ## Uyarı
 > Bu yol haritalarının amacı ne öğreneceğinize dair kafanızda fikir oluşması ve trend olan teknolojiler arasında ne öğrenmeniz gerektiğini açıklamaktır. Siz hangi aracın hangi durumlarda daha uygun olduğunu kendiniz öğrenmelisiniz. "trend" kelimesi asla iş için en uygunu anlamına gelmemektedir.
