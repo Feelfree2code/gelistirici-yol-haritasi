@@ -1,12 +1,7 @@
-<p align="center">
-  <a href="http://github.com/AtakanErmis/gelistirici-yol-haritasi">
-    <img src="https://i.imgur.com/Uid1O3A.png" alt="Geliştirici Yol Haritası" width="96" height="96">
-  </a>
-  <h2 align="center">Geliştirici Yol Haritası</h2>
-  <p align="center">2019'da web geliştirici olmanın yol haritası.</p>
-  <p align="center"><a href="https://github.com/kamranahmedse/developer-roadmap">Kamran Ahmed'in geliştirici yol haritası</a>ndan birebir çeviridir.</p>
-  <br>
-</p>
+![Web Developer Roadmap - 2020](./images/banner.png)
+
+> 2020'de Web geliştirici olmanın yol haritası
+> [Orijinal Doküman için tıklayın.](https://github.com/kamranahmedse/developer-roadmap)
 
 Aşağıda Ön Uç (Front-end), Arka Uç (Back-end) ve Devops geliştirici olmak için öğrenmeniz gereken teknolojileri açıklayan tablolar göreceksiniz. Bu tablolar Kamran Ahmed tarafından topluluğa yardımcı olmak için hazırlanmış ve benim tarafımdan birebir çevirilmiştir.
 
