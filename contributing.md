@@ -2,7 +2,7 @@
 Amacımız en büyük listeyi oluşturmak falan değil.
 Amacımız buraya gelen herkesin öğrenmesi gereken şeylerin listesini oluşturmak.
 
-## Bu yol haritaları nasıl yapılıyor!
+## Bu yol haritaları nasıl yapılıyor?
 
 > Yol haritalarını [Balsamiq](https://balsamiq.com/download/) kullanarak oluşturuyoruz.
 
